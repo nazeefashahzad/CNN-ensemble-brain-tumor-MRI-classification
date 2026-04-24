@@ -4,3 +4,4 @@ https://github.com/nazeefashahzad/CNN-ensemble-brain-tumor-MRI-classification/bl
 https://github.com/nazeefashahzad/CNN-ensemble-brain-tumor-MRI-classification/blob/main/02_ensemble_cnn_mobilenet.ipynb
 https://github.com/nazeefashahzad/CNN-ensemble-brain-tumor-MRI-classification/blob/main/03_cnn_efficientnetb0.ipynb
 https://github.com/nazeefashahzad/CNN-ensemble-brain-tumor-MRI-classification/blob/main/04_ensemble_cnn_vgg16.ipynb
+https://github.com/nazeefashahzad/CNN-ensemble-brain-tumor-MRI-classification/blob/main/05_transfer_learning_models.ipynb
